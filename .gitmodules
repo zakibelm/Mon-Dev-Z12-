@@ -1,0 +1,4 @@
+[submodule "vendor/assistant-frontend"]
+	path = vendor/assistant-frontend
+	url = https://github.com/zakibelm/Assistant-frontend-.git
+	branch = ccr-9b5832cc-g65xj5
